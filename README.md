@@ -1,4 +1,3 @@
-### Olá, Sou Giovane Leacina! 
 **Bem-vindo ao meu GitHub 👋**
 
 
