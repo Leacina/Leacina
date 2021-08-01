@@ -1,5 +1,5 @@
 ### Olá, Sou Giovane Leacina! 
-**Bem vindo ao meu GitHub 👋**
+**Bem-vindo ao meu GitHub 👋**
 
 
 *Sou formado no curso de Ciência da Computação pela Universidade do Extremo Sul de Santa Catarina. 
