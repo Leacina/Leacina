@@ -3,7 +3,7 @@
 
 *Sou formado no curso de Ciência da Computação pela Universidade do Extremo Sul de Santa Catarina. 
 Trabalho com desenvolvimento de software desde o final de 2018. Tenho meus principais estudos voltados para o Javascript e seus 
-frameworks/bibliotecas. Fiz um bootcamp da Rocktseat para me aprofundar mais em NodeJs e hoje estou fazendo outro bootcamp para aprimorar mais 
+frameworks/bibliotecas. Fiz um bootcamp da Rocktseat para me aprofundar mais em NodeJs e hoje estou fazendo outro para aprimorar mais 
 meus conceitos na stack ReactJs, React Native e NodeJs. Hoje atuo com desenvolvimento web e desktop. Na web eu trabalho com 
 as tecnologias Angular e NodeJs.*
 
