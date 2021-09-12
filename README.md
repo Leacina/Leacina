@@ -13,7 +13,7 @@ as tecnologias Angular e NodeJs.*
 
 ### Meu TCC
 
-**Desenvolvimento de uma luva capaz de identificar o alfabeto datilológico e numeral. Nela tem sensores flexíveis, inerciais e de contato para conseguir identificar os gestos realizados.**
+**Desenvolvimento de uma luva capaz de identificar o alfabeto datilológico e numeral (alfabeto em Libras). Nela tem sensores flexíveis, inerciais e de contato para conseguir identificar os gestos realizados.**
 
 > Libras é uma língua que realiza a comunicação por meio da modalidade gesto-visual, ou seja, transformando movimentos corporais em uma forma de comunicação. Tendo isso em vista, este trabalho foi desenvolvido para identificar movimentos do alfabeto manual e numeral da língua brasileira de sinais por meio de uma luva vestível. Além da luva, foi desenvolvido um aplicativo para realizar a comunicação, possibilitando a interação do usuário para visualização do resultado. De acordo com duas avaliadoras da área de Libras, o dispositivo vestível proposto se mostrou eficiente para captação dos gestos, não havendo nenhuma letra ou número não reconhecido.
 
